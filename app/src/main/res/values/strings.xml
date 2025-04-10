@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Quiz APP</string>
+
+    <string name="score">Score 0/8</string>
+    <string name="question_number">1/8 Question</string>
+
+    <string name="question_1">Which protocol is used for secure communication over a computer network?</string>
+    <string name="question1_A">HTTP</string>
+    <string name="question1_B">FTP</string>
+    <string name="question1_C">HTTPS</string>
+    <string name="question1_D">SMTP</string>
+    <string name="answer_1">HTTPS</string>
+
+    <string name="question_2">What does SQL stand for?</string>
+    <string name="question2_A">Structured Question Language</string>
+    <string name="question2_B">Simple Query Language</string>
+    <string name="question2_C">Sequential Query Language</string>
+    <string name="question2_D">Structured Query Language</string>
+    <string name="answer_2">Structured Query Language</string>
+
+    <string name="question_3">Which component is responsible for processing data in a computer?</string>
+    <string name="question3_A">GPU</string>
+    <string name="question3_B">PSU</string>
+    <string name="question3_C">CPU</string>
+    <string name="question3_D">SSD</string>
+    <string name="answer_3">CPU</string>
+
+    <string name="question_4">What is a common tool used to protect against cyber attacks?</string>
+    <string name="question4_A">Firewall</string>
+    <string name="question4_B">Compiler</string>
+    <string name="question4_C">CSS</string>
+    <string name="question4_D">HTML</string>
+    <string name="answer_4">Firewall</string>
+
+    <string name="question_5">Which cloud service provides virtual machines to users?</string>
+    <string name="question5_A">SaaS</string>
+    <string name="question5_B">PaaS</string>
+    <string name="question5_C">IaaS</string>
+    <string name="question5_D">FaaS</string>
+    <string name="answer_5">IaaS</string>
+
+    <string name="question_6">Which data structure follows the FIFO principle?</string>
+    <string name="question6_A">Stack</string>
+    <string name="question6_B">Array</string>
+    <string name="question6_C">Linked List</string>
+    <string name="question6_D">Queue</string>
+    <string name="answer_6">Queue</string>
+
+    <string name="question_7">What is the primary purpose of CSS in web development?</string>
+    <string name="question7_A">Define page structure</string>
+    <string name="question7_B">Add interactivity</string>
+    <string name="question7_C">Style web pages</string>
+    <string name="question7_D">Manage databases</string>
+    <string name="answer_7">Style web pages</string>
+
+    <string name="question_8">Which version control system is widely used in software development?</string>
+    <string name="question8_A">Git</string>
+    <string name="question8_B">SVN</string>
+    <string name="question8_C">Mercurial</string>
+    <string name="question8_D">CVS</string>
+    <string name="answer_8">Git</string>
+
+    <string name="selctedoption">SelctedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+
+</resources>
